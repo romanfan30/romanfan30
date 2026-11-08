@@ -16,8 +16,8 @@
 * **Реализация:**
   * Спроектирована многослойная архитектура (`Controller` → `Service` → `Repository`) и схема БД из 5 сущностей (`Book`, `Author`, `Category`, `User`, `Loan`) со статусами выдачи (`ACTIVE`, `RETURNED`, `OVERDUE`).
   * Разработан REST API с поиском, фильтрацией, валидацией (`Bean Validation`) и защитой чувствительных данных через паттерн DTO.
-  * Настроена аутентификация на Spring Security (`BCrypt`, `UserDetailsService`, возврат `401 Unauthorized`) и предзаполнение БД (`CommandLineRunner`, `@Profile("!test")`).
-  * Написано **50 автотестов**: unit-тесты сервисов (`Mockito`), тесты репозиториев на H2 (`@DataJpaTest`) и интеграционные тесты (`MockMvc`).
+  * Настроена аутентификация на Spring Security (`BCrypt`, `UserDetailsService`, возврат `401 Unauthorized`).
+  * Написано **50 автотестов**: unit-тесты сервисов (`Mockito`), тесты репозиториев на H2 (`@DataJpaTest`).
 
 #### 2. [Custom MJPG Image Codec](https://github.com/romanfan30/aisd_4sem_lab2) — Кодек сжатия изображений (JPEG-пайплайн)
 * **Стек:** Python, NumPy, Pillow, Matplotlib.
