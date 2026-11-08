@@ -11,7 +11,7 @@
 
 ### Ключевые проекты
 
-#### 1. [Library Management System](https://github.com/romanfan30/library-management) — REST API сервис управления библиотечным фондом
+#### 1. [Library Management System](https://github.com/romanfan30/library-management-system) — REST API сервис управления библиотечным фондом
 * **Тип:** Backend Web Service
 * **Стек:** Java 17, Spring Boot, Spring Web MVC, Spring Data JPA (Hibernate), Spring Security, PostgreSQL, H2, JUnit 5, Mockito, Maven.
 * **Реализация:**
