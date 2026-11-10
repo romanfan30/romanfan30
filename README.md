@@ -2,10 +2,10 @@
 
 | Уровень | Технологии |
 |---|---|
-| **Backend & API** | **Java 17**, **Spring Boot** (Web MVC, Security, Validation), **Telegram Bot API** |
-| **Базы данных и ORM** | **PostgreSQL**, **Spring Data JPA** (Hibernate), **H2**, **SQL** |
-| **Тестирование и инфра** | **Docker**, **JUnit 5**, **Mockito**, **MockMvc**, **Maven**, **Gradle**, **Postman**, **Git** |
-| **CS & Алгоритмы** | **Python 3**, **NumPy**, структуры данных, бинарные форматы (`.mjpg`, `.raw`) |
+| **Backend Development** | **Java 17**, **Spring Boot** (Web MVC, Security, Validation), **Telegram Bot API** |
+| **Databases & ORM** | **PostgreSQL**, **Spring Data JPA** (Hibernate), **H2**, **SQL** |
+| **Testing & DevOps Tools** | **Docker**, **JUnit 5**, **Mockito**, **MockMvc**, **Maven**, **Gradle**, **Postman**, **Git** |
+| **Computer Science & Algorithms** | **Python 3**, **NumPy**, структуры данных, бинарные форматы (`.mjpg`, `.raw`) |
 
 ---
 
